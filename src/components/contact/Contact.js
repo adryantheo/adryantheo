@@ -27,7 +27,7 @@ const useStyles = makeStyles((theme) => ({
 
 const Contact = () => {
   const classes = useStyles();
-  const greetings = "Send me an Email.";
+  const greetings = "Say Hi.";
 
   const form = useRef();
 
